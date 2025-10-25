@@ -1,3 +1,3 @@
-
-reflex==0.8.17a1
+reflex
 reflex-monaco
+pydantic-ai[mcp]
