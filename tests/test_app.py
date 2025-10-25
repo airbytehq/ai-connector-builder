@@ -2,7 +2,7 @@
 
 import pytest
 
-from agentic_connector_builder_webapp.agentic_connector_builder_webapp import (
+from app.agentic_connector_builder_webapp import (
     ConnectorBuilderState,
     index,
 )

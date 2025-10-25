@@ -4,7 +4,7 @@ from unittest.mock import Mock
 
 import pytest
 
-from agentic_connector_builder_webapp.chat_agent import (
+from app.chat_agent import (
     SessionDeps,
     get_manifest_text,
     insert_manifest_lines,
